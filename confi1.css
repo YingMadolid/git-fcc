@@ -1,5 +1,5 @@
 #email {
-  padding: 50px;
+  padding: 40px;
   width: 500px;
   margin-top: 50px;
   border: 2px;
@@ -8,8 +8,8 @@
 
 #confidential, #top-secret {
   display: inline-block;
-  padding: 10px;
-  margin-left: 10px;
+  padding: 30px;
+  margin-left: 20px;
   border: 3px solid red;
   transform: rotate(30deg);
   color: red
